@@ -1,5 +1,5 @@
 <div>
-   @extends('layout.list')
+   @extends('layouts.list')
 
 @section('konten')
     <p>ID Produk: {{ $id }}</p>
